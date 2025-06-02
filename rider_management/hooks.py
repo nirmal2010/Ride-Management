@@ -144,6 +144,12 @@ app_license = "mit"
 # 		"on_trash": "method"
 # 	}
 # }
+doc_events = {
+    "Ride Booking":
+    {
+        "before_save":"rider_management.rider_management.doctype.ride_booking.ride_booking.calc_amount"
+    }
+}
 
 # Scheduled Tasks
 # ---------------
