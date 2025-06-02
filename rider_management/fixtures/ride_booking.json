@@ -1,0 +1,94 @@
+[
+ {
+  "booking_date": "2025-06-02",
+  "customer": "Nirmalrajaa",
+  "customer_name": "Nirmalrajaa",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 30.0,
+  "make": "Hindusthan Motors",
+  "modified": "2025-06-02 18:11:19.739664",
+  "name": "Ambassador Mark 3-25-0001",
+  "phone_number": "9003495981",
+  "price_per_km": 25.0,
+  "return_date": null,
+  "services": [
+   {
+    "amount": 1500.0,
+    "item": "Tourist Guides",
+    "parent": "Ambassador Mark 3-25-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking"
+   },
+   {
+    "amount": 500.0,
+    "item": "Wifi Access",
+    "parent": "Ambassador Mark 3-25-0001",
+    "parentfield": "services",
+    "parenttype": "Ride Booking"
+   }
+  ],
+  "total_amount": 2750.0,
+  "type": "Mark 3",
+  "vehicle": "Ambassador Mark 3"
+ },
+ {
+  "booking_date": "2025-06-03",
+  "customer": "Vel",
+  "customer_name": "Vel",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 350.0,
+  "make": "Royal Enfield",
+  "modified": "2025-06-02 18:09:34.883093",
+  "name": "Continental GT 650-25-0002",
+  "phone_number": null,
+  "price_per_km": 0.0,
+  "return_date": "2025-06-04",
+  "services": [
+   {
+    "amount": 500.0,
+    "item": "Wifi Access",
+    "parent": "Continental GT 650-25-0002",
+    "parentfield": "services",
+    "parenttype": "Ride Booking"
+   },
+   {
+    "amount": 1000.0,
+    "item": "Travel Insurance",
+    "parent": "Continental GT 650-25-0002",
+    "parentfield": "services",
+    "parenttype": "Ride Booking"
+   }
+  ],
+  "total_amount": 1500.0,
+  "type": "Continental GT",
+  "vehicle": "Continental GT 650"
+ },
+ {
+  "booking_date": "2025-06-10",
+  "customer": "Nirmalrajaa",
+  "customer_name": "Nirmalrajaa",
+  "docstatus": 0,
+  "doctype": "Ride Booking",
+  "estimated_km": 200.0,
+  "make": "Hero Moto Corp",
+  "modified": "2025-06-02 18:11:04.598734",
+  "name": "Splendor-25-0003",
+  "phone_number": "9003495981",
+  "price_per_km": 5.0,
+  "return_date": "2025-06-12",
+  "services": [
+   {
+    "amount": 1500.0,
+    "item": "Tourist Guides",
+    "parent": "Splendor-25-0003",
+    "parentfield": "services",
+    "parenttype": "Ride Booking"
+   }
+  ],
+  "total_amount": 2500.0,
+  "type": "Plus",
+  "vehicle": "Splendor"
+ }
+]
