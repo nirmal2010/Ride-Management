@@ -1,0 +1,32 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/splendor_image.avif",
+  "make": "Hero Moto Corp",
+  "modified": "2025-06-02 17:28:25.079427",
+  "name": "Splendor",
+  "price_per_km": 5.0,
+  "type": "Plus"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/GT Image.jpeg",
+  "make": "Royal Enfield",
+  "modified": "2025-06-02 17:28:56.150350",
+  "name": "Continental GT 650",
+  "price_per_km": 0.0,
+  "type": "Continental GT"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Vehicle Ride",
+  "image": "/files/Ambassador_M3 Image.jpg",
+  "make": "Hindusthan Motors",
+  "modified": "2025-06-02 17:27:49.937072",
+  "name": "Ambassador Mark 3",
+  "price_per_km": 25.0,
+  "type": "Mark 3"
+ }
+]

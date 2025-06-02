@@ -151,6 +151,22 @@ doc_events = {
     }
 }
 
+fixtures = [
+    {
+        "doctype":"Ride Booking",
+    },
+    {
+        "doctype":"Vehicle Ride",
+    },
+    {
+        "doctype":"Item",
+    },
+    {
+        "doctype":"Customer",
+    },
+    
+    ]
+    
 # Scheduled Tasks
 # ---------------
 
